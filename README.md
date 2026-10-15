@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3200&pause=900&color=9C89B8&center=true&vCenter=true&width=560&lines=Turning+demand+data+into+smarter+stock+decisions;Forecasting+%C2%B7+Optimization+%C2%B7+Supply+Chain+Analytics;Sabanc%C4%B1+University+%E2%80%94+Industrial+Engineering" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3200&pause=900&color=9C89B8&center=true&vCenter=true&width=720&height=36&lines=Turning+demand+data+into+smarter+stock+decisions;Forecasting+%C2%B7+Optimization+%C2%B7+Supply+Chain+Analytics;Sabanc%C4%B1+University+%E2%80%94+Industrial+Engineering" alt="typing"/>
 </p>
 
 <p align="center">
@@ -48,15 +48,15 @@ I'm an Industrial Engineering student at **Sabancı University**, working where 
 
 <p align="center">
   <a href="https://github.com/humaisik-star/DemandStockInsight">
-    <img src="https://img.shields.io/badge/DemandStockInsight-Demand%20Forecasting%20%26%20Inventory%20Optimization-CDEAC0?style=for-the-badge&logo=github&logoColor=4A4E69" alt="DemandStockInsight"/>
+    <img src="https://img.shields.io/badge/DemandStockInsight%20%C2%B7%20Forecasting%20and%20Inventory%20Optimization-CDEAC0?style=for-the-badge&logo=github&logoColor=4A4E69" alt="DemandStockInsight"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Forecast%20R%C2%B2-0.95-BDE0FE?style=flat-square" alt="R2"/>
-  <img src="https://img.shields.io/badge/Inventory-%E2%88%9228%25-F7CAD0?style=flat-square" alt="inventory"/>
-  <img src="https://img.shields.io/badge/Service%20level-~95%25-CDB4DB?style=flat-square" alt="service"/>
-  <img src="https://img.shields.io/badge/SKUs-100-FFD6A5?style=flat-square" alt="skus"/>
+  <img src="https://img.shields.io/badge/Forecast%20R%C2%B2-0.95-BDE0FE?style=flat-square&labelColor=F3EEF8" alt="R2"/>
+  <img src="https://img.shields.io/badge/Inventory-%E2%88%9228%25-F7CAD0?style=flat-square&labelColor=F3EEF8" alt="inventory"/>
+  <img src="https://img.shields.io/badge/Service%20level-~95%25-CDB4DB?style=flat-square&labelColor=F3EEF8" alt="service"/>
+  <img src="https://img.shields.io/badge/SKUs-100-FFD6A5?style=flat-square&labelColor=F3EEF8" alt="skus"/>
 </p>
 
 <p align="center"><sub>XGBoost forecasts → safety stock, reorder points, EOQ, ABC-XYZ and newsvendor → stock policy, with an Azure OpenAI assistant on top.</sub></p>
@@ -85,10 +85,10 @@ I'm an Industrial Engineering student at **Sabancı University**, working where 
 ---
 
 <p align="center">
-  🌍 Turkish (native) · English (advanced) · Spanish (beginner, learning! 🇪🇸)
+  🇹🇷 Turkish (native) &nbsp;·&nbsp; 🇬🇧 English (advanced) &nbsp;·&nbsp; 🇪🇸 Spanish (beginner, learning!)
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDE0FE,50:CDB4DB,100:F7CAD0&height=110&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDE0FE,50:CDB4DB,100:F7CAD0&height=80&section=footer" width="100%" alt="footer"/>
 </p>
