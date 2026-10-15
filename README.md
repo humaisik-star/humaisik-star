@@ -19,21 +19,31 @@
 <br/>
 
 <!-- ============ ABOUT ============ -->
+
 ## About me
 
-<img align="right" src="cat.svg" width="170" alt="pastel cat"/>
+<table>
+  <tr>
+    <td valign="middle" width="75%">
+      <ul>
+        <li>🎓 <b>Industrial Engineering</b> student at <b>Sabancı University</b></li>
+        <li>💼 <b>Machine Learning Intern @ Microsoft</b>: co-developed a forecasting-driven inventory policy with <b>~28% less stock</b> at a <b>~95% service level</b></li>
+        <li>🚗 <b>After Sales Value Chain Intern @ Toyota</b>: pitched an accessory concept that was <b>approved into the portfolio</b></li>
+        <li>📄 <b>Published</b> in <i>The Engineering Economist</i> (2026): <i>Measuring ECON–ESG interdependencies</i></li>
+        <li>🎮 Co-developing a <b>mobile 1v1 fighting game</b>: hand-drawn characters → AI-to-3D → Blender</li>
+        <li>🎯 <b>Focus:</b> demand forecasting · inventory optimization · operations research · data analytics</li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="25%">
+      <img src="cat.svg" width="160" hspace="20" alt="pastel cat"/>
+    </td>
+  </tr>
+</table>
 
-- 🎓 **Industrial Engineering** student at **Sabancı University**
-- 💼 **Machine Learning Intern @ Microsoft** — co-developed a forecasting-driven inventory policy: **~28% less stock** at a **~95% service level**
-- 🚗 **After Sales Value Chain Intern @ Toyota** — pitched an accessory concept that was **approved into the portfolio**
-- 📄 **Published** in *The Engineering Economist* (2026) — *Measuring ECON–ESG interdependencies*
-- 🎮 Co-developing a **mobile 1v1 fighting game** — hand-drawn characters → AI-to-3D → Blender
-- 🎯 **Focus:** demand forecasting · inventory optimization · operations research · data analytics
-
-<br clear="right"/>
 <br/>
 
 <!-- ============ FEATURED PROJECT ============ -->
+
 ## Featured project
 
 <p align="center">
@@ -58,6 +68,7 @@
 <br/>
 
 <!-- ============ SKILLS ============ -->
+
 ## Skills & tools
 
 <div align="center">
