@@ -16,8 +16,6 @@
   <a href="mailto:huma.isik@sabanciuniv.edu"><img src="https://img.shields.io/badge/Email-F7CAD0?style=for-the-badge&logo=gmail&logoColor=4A4E69" alt="Email"/></a>&nbsp;
   <a href="https://doi.org/10.1080/0013791X.2026.2741058"><img src="https://img.shields.io/badge/Publication-CDB4DB?style=for-the-badge&logo=readthedocs&logoColor=4A4E69" alt="Publication"/></a>
 </p>
-<p align="center"><sub>huma.isik@sabanciuniv.edu</sub></p>
-
 <br/>
 
 <!-- ============ ABOUT ============ -->
