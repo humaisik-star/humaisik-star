@@ -100,19 +100,18 @@
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=humaisik-star&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&custom_title=Contributions&bg_color=FBF7FD&title_color=9C89B8&icon_color=E8A0B4&text_color=4A4E69&ring_color=CDB4DB&rank_icon=github" alt="GitHub stats"/>
-  &nbsp;
-  <img height="165" src="https://streak-stats.demolab.com?user=humaisik-star&hide_border=true&background=FBF7FD&ring=CDB4DB&fire=E8A0B4&currStreakNum=9C89B8&sideNums=4A4E69&currStreakLabel=9C89B8&sideLabels=4A4E69&dates=9C89B8&stroke=E4D4EE" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaisik-star&bg_color=FBF7FD&color=9C89B8&line=CDB4DB&point=E8A0B4&area=true&area_color=E4D4EE&hide_border=true&custom_title=Contribution%20graph" alt="activity graph"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=humaisik-star&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&custom_title=Contributions&bg_color=FBF7FD&title_color=9C89B8&icon_color=E8A0B4&text_color=4A4E69&ring_color=CDB4DB&rank_icon=github" alt="GitHub stats"/>
+  &nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.demolab.com?user=humaisik-star&hide_border=true&background=FBF7FD&ring=CDB4DB&fire=E8A0B4&currStreakNum=9C89B8&sideNums=4A4E69&currStreakLabel=9C89B8&sideLabels=4A4E69&dates=9C89B8&stroke=E4D4EE" alt="GitHub streak"/>
 </p>
 
 <br/>
 
+<!-- ============ LANGUAGES ============ -->
 <p align="center">
-  🇹🇷 Turkish (native) &nbsp;·&nbsp; 🇬🇧 English (advanced) &nbsp;·&nbsp; 🇪🇸 Spanish (beginner)
+  <img src="https://img.shields.io/badge/Turkish-Native-F7CAD0?style=flat-square&labelColor=F3EEF8" alt="Turkish"/>&nbsp;
+  <img src="https://img.shields.io/badge/English-Advanced-CDB4DB?style=flat-square&labelColor=F3EEF8" alt="English"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spanish-Beginner-BDE0FE?style=flat-square&labelColor=F3EEF8" alt="Spanish"/>
 </p>
 
 <!-- ============ FOOTER ============ -->
