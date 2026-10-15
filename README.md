@@ -87,7 +87,7 @@ I'm an Industrial Engineering student at **Sabancı University**, working where 
 ---
 
 <p align="center">
-  🇹🇷 Turkish (native) &nbsp;·&nbsp; 🇬🇧 English (advanced) &nbsp;·&nbsp; 🇪🇸 Spanish (beginner, learning!)
+  🇹🇷 Turkish (native) &nbsp;·&nbsp; 🇬🇧 English (advanced) &nbsp;·&nbsp; 🇪🇸 Spanish (beginner)
 </p>
 
 <!-- Footer -->
