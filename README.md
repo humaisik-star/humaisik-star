@@ -107,10 +107,9 @@
 
 <!-- ============ LANGUAGES ============ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Turkish-Native-F7CAD0?style=flat-square&labelColor=F3EEF8" alt="Turkish"/>&nbsp;
-  <img src="https://img.shields.io/badge/English-Advanced-CDB4DB?style=flat-square&labelColor=F3EEF8" alt="English"/>&nbsp;
-  <img src="https://img.shields.io/badge/Spanish-Beginner-BDE0FE?style=flat-square&labelColor=F3EEF8" alt="Spanish"/>
+  <img src="languages.svg" width="760" alt="Turkish: Native · English: Advanced · Spanish: Beginner"/>
 </p>
+<p align="center"><sub>● Level Proficiency</sub></p>
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
