@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 72" width="780" height="72" role="img" aria-label="Languages: Turkish native, English advanced, Spanish beginner">
+  <style>
+    .card { fill: #FBF7FD; stroke: #E4D4EE; stroke-width: 1.5; }
+    .lang { font: 600 17px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #4A4E69; }
+    .lvl  { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #4A4E69; letter-spacing: 0.3px; }
+  </style>
+
+  <!-- Turkish -->
+  <g transform="translate(6,8)">
+    <rect class="card" width="244" height="56" rx="28"/>
+    <text class="lang" x="26" y="34">Turkish</text>
+    <rect x="132" y="12" width="96" height="32" rx="16" fill="#F7CAD0"/>
+    <text class="lvl" x="180" y="33" text-anchor="middle">Native</text>
+  </g>
+
+  <!-- English -->
+  <g transform="translate(268,8)">
+    <rect class="card" width="244" height="56" rx="28"/>
+    <text class="lang" x="26" y="34">English</text>
+    <rect x="132" y="12" width="96" height="32" rx="16" fill="#CDB4DB"/>
+    <text class="lvl" x="180" y="33" text-anchor="middle">Advanced</text>
+  </g>
+
+  <!-- Spanish -->
+  <g transform="translate(530,8)">
+    <rect class="card" width="244" height="56" rx="28"/>
+    <text class="lang" x="26" y="34">Spanish</text>
+    <rect x="132" y="12" width="96" height="32" rx="16" fill="#BDE0FE"/>
+    <text class="lvl" x="180" y="33" text-anchor="middle">Beginner</text>
+  </g>
+</svg>
