@@ -98,6 +98,7 @@
 
 <br/>
 <!-- ============ GITHUB STATS ============ -->
+
 ## GitHub activity
 
 <p align="center">
