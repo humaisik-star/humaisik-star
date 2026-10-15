@@ -38,19 +38,21 @@
 
 <p align="center">
   <a href="https://github.com/humaisik-star/DemandStockInsight">
-    <img src="https://img.shields.io/badge/DemandStockInsight-Forecasting%20and%20Inventory%20Optimization-CDEAC0?style=for-the-badge&logo=github&logoColor=4A4E69&labelColor=F3EEF8" alt="DemandStockInsight"/>
+    <img src="https://img.shields.io/badge/DemandStockInsight-Forecasting%20and%20Inventory%20Optimization-CDB4DB?style=for-the-badge&logo=github&logoColor=4A4E69&labelColor=F3EEF8" alt="DemandStockInsight"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Forecast%20R%C2%B2-0.95-BDE0FE?style=flat-square&labelColor=F3EEF8" alt="R2"/>&nbsp;
-  <img src="https://img.shields.io/badge/Inventory-%E2%88%9228%25-F7CAD0?style=flat-square&labelColor=F3EEF8" alt="inventory"/>&nbsp;
-  <img src="https://img.shields.io/badge/Service%20level-~95%25-CDB4DB?style=flat-square&labelColor=F3EEF8" alt="service"/>&nbsp;
-  <img src="https://img.shields.io/badge/SKUs-100-FFD6A5?style=flat-square&labelColor=F3EEF8" alt="skus"/>
+  <img src="https://img.shields.io/badge/Forecast%20R%C2%B2-0.95-F7CAD0?style=flat-square&labelColor=F3EEF8" alt="R2"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Inventory-%E2%88%9228%25-CDB4DB?style=flat-square&labelColor=F3EEF8" alt="inventory"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Service%20level-~95%25-BDE0FE?style=flat-square&labelColor=F3EEF8" alt="service"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SKUs-100-F7CAD0?style=flat-square&labelColor=F3EEF8" alt="skus"/>
 </p>
 
 <p align="center">
-  <sub>XGBoost forecasts → safety stock · reorder point · EOQ · ABC-XYZ · newsvendor → stock policy, with an Azure OpenAI assistant on top</sub>
+  <sub><b>HOW IT WORKS</b></sub><br/>
+  <code>XGBoost forecast</code> &nbsp;→&nbsp; <code>Safety stock · ROP · EOQ</code> &nbsp;→&nbsp; <code>ABC-XYZ · Newsvendor</code> &nbsp;→&nbsp; <code>Stock policy</code><br/>
+  <sub>with an Azure OpenAI assistant on top</sub>
 </p>
 
 <br/>
@@ -58,42 +60,43 @@
 <!-- ============ SKILLS ============ -->
 ## Skills & tools
 
-<table align="center">
+<div align="center">
+<table>
   <tr>
-    <td align="center" width="33%"><b>Data & ML</b></td>
-    <td align="center" width="33%"><b>Optimization & Analytics</b></td>
-    <td align="center" width="33%"><b>Tools</b></td>
+    <th align="center" width="250">Data & ML</th>
+    <th align="center" width="250">Optimization & Analytics</th>
+    <th align="center" width="250">Tools</th>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-BDE0FE?style=flat-square&logo=python&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/pandas-CDB4DB?style=flat-square&logo=pandas&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/NumPy-F7CAD0?style=flat-square&logo=numpy&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/scikit--learn-FFD6A5?style=flat-square&logo=scikitlearn&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/XGBoost-CDEAC0?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SQLite-BDE0FE?style=flat-square&logo=sqlite&logoColor=4A4E69"/>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Python-BDE0FE?style=flat-square&logo=python&logoColor=4A4E69" alt="Python"/><br/>
+      <img src="https://img.shields.io/badge/pandas-CDB4DB?style=flat-square&logo=pandas&logoColor=4A4E69" alt="pandas"/><br/>
+      <img src="https://img.shields.io/badge/NumPy-F7CAD0?style=flat-square&logo=numpy&logoColor=4A4E69" alt="NumPy"/><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-BDE0FE?style=flat-square&logo=scikitlearn&logoColor=4A4E69" alt="scikit-learn"/><br/>
+      <img src="https://img.shields.io/badge/XGBoost-CDB4DB?style=flat-square" alt="XGBoost"/><br/>
+      <img src="https://img.shields.io/badge/SQLite-F7CAD0?style=flat-square&logo=sqlite&logoColor=4A4E69" alt="SQLite"/><br/>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/PuLP-F7CAD0?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Linear%20Programming-CDB4DB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Forecasting-BDE0FE?style=flat-square"/>
-      <img src="https://img.shields.io/badge/EOQ%20%C2%B7%20ABC%20%C2%B7%20Safety%20Stock-CDEAC0?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Hypothesis%20Testing-FFD6A5?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Arena%20Simulation-CDB4DB?style=flat-square"/>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/PuLP-F7CAD0?style=flat-square" alt="PuLP"/><br/>
+      <img src="https://img.shields.io/badge/Linear%20Programming-BDE0FE?style=flat-square" alt="Linear Programming"/><br/>
+      <img src="https://img.shields.io/badge/Forecasting-CDB4DB?style=flat-square" alt="Forecasting"/><br/>
+      <img src="https://img.shields.io/badge/EOQ%20%C2%B7%20ABC%20%C2%B7%20Safety%20Stock-F7CAD0?style=flat-square" alt="EOQ ABC Safety Stock"/><br/>
+      <img src="https://img.shields.io/badge/Hypothesis%20Testing-BDE0FE?style=flat-square" alt="Hypothesis Testing"/><br/>
+      <img src="https://img.shields.io/badge/Arena%20Simulation-CDB4DB?style=flat-square" alt="Arena Simulation"/><br/>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Power%20BI-FDFFB6?style=flat-square&logo=powerbi&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/Azure-BDE0FE?style=flat-square&logo=microsoftazure&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/Jupyter-FFD6A5?style=flat-square&logo=jupyter&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/Excel-CDEAC0?style=flat-square&logo=microsoftexcel&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/Blender-F7CAD0?style=flat-square&logo=blender&logoColor=4A4E69"/>
-      <img src="https://img.shields.io/badge/Git-CDB4DB?style=flat-square&logo=git&logoColor=4A4E69"/>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Power%20BI-CDB4DB?style=flat-square&logo=powerbi&logoColor=4A4E69" alt="Power BI"/><br/>
+      <img src="https://img.shields.io/badge/Azure-F7CAD0?style=flat-square&logo=microsoftazure&logoColor=4A4E69" alt="Azure"/><br/>
+      <img src="https://img.shields.io/badge/Jupyter-BDE0FE?style=flat-square&logo=jupyter&logoColor=4A4E69" alt="Jupyter"/><br/>
+      <img src="https://img.shields.io/badge/Excel-CDB4DB?style=flat-square&logo=microsoftexcel&logoColor=4A4E69" alt="Excel"/><br/>
+      <img src="https://img.shields.io/badge/Blender-F7CAD0?style=flat-square&logo=blender&logoColor=4A4E69" alt="Blender"/><br/>
+      <img src="https://img.shields.io/badge/Git-BDE0FE?style=flat-square&logo=git&logoColor=4A4E69" alt="Git"/><br/>
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
-
 <!-- ============ GITHUB STATS ============ -->
 ## GitHub activity
 
